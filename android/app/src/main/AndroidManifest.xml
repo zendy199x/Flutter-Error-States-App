@@ -1,8 +1,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.error_screen">
    <application
-        android:label="error_screen"
-        android:icon="@mipmap/ic_launcher">
+        android:label="Error States"
+        android:icon="@mipmap/launcher_icon">
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
